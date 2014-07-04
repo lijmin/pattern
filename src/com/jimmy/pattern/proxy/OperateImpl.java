@@ -1,4 +1,4 @@
-package com.jimmy.pattern;
+package com.jimmy.pattern.proxy;
 
 public class OperateImpl implements Operate {
 

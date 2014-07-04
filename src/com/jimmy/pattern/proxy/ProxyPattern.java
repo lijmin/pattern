@@ -1,4 +1,4 @@
-package com.jimmy.pattern;
+package com.jimmy.pattern.proxy;
 
 public class ProxyPattern {
 	public static void main(String[] args) {
